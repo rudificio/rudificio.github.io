@@ -2,16 +2,43 @@
   margin:0px;
   padding:0px;
 }
-
+body{
+  background-color: aquamarine;
+}
+/* will try this another way
 #octocat {
   display: block;
   width:384px;
   margin: 50px auto;
 }
+*/
+#fursona{
+  display: block;
+  width: 384px;
+  margin-left: 50px auto;
+  margin-bottom: 0px;
+}
 
+img{
+  display: block;
+  width: 384px;
+  margin: 50px auto;
+}
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+figcaption {
+  color: rgb(226, 6, 255);
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+figure{
+  height: auto;
+  width: 420px;
+  margin:50px auto;
+  background-image: url("images/rainbow.jpg");
 }
