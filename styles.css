@@ -31,6 +31,7 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 ul {
+  list-style-image: url('images/artist_ShuryaSHISH_comfy_nick_wilde_cropped.png');
   display: block;
   width: 400px;
   margin: 50px auto;
