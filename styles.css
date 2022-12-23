@@ -31,6 +31,7 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 ul {
+  /* TODO make image smaller + cutout his head and invisible background */
   list-style-image: url('images/artist_ShuryaSHISH_comfy_nick_wilde_cropped.png');
   display: block;
   width: 400px;
